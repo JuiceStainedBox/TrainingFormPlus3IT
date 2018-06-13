@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_229771_reimburse_reimbursement_after_training</description>
+        <name>x_229771_reimburse_reimbursement_after_training</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-13 15:21:06</sys_created_on>
+        <sys_id>a437ba2b4f62130007b38df07310c773</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_229771_reimburse_reimbursement_after_training</sys_name>
+        <sys_package display_value="Reimbursement for Training" source="x_229771_reimburse">d8fcaea7dbea1300d43d5990cf961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement for Training">d8fcaea7dbea1300d43d5990cf961990</sys_scope>
+        <sys_update_name>sys_security_acl_a437ba2b4f62130007b38df07310c773</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-13 15:21:06</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
