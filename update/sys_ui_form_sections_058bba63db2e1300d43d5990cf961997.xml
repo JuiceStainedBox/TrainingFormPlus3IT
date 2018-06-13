@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="058bba63db2e1300d43d5990cf961997" sys_domain="global" table="x_229771_reimburse_training_reimbursement_section_1" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 15:39:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c58bba63db2e1300d43d5990cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229771_reimburse_training_reimbursement_section_1" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">058bba63db2e1300d43d5990cf961997</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">4f06366bdbaa1300d43d5990cf96195b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 15:39:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 15:39:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>818bba63db2e1300d43d5990cf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229771_reimburse_training_reimbursement_section_1" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">058bba63db2e1300d43d5990cf961997</sys_ui_form>
+            <sys_ui_section caption="Course 1" display_value="Course 1" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">0d8b7a63db2e1300d43d5990cf96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 15:39:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 17:37:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f76dfafdb2e1300d43d5990cf961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229771_reimburse_training_reimbursement_section_1" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">058bba63db2e1300d43d5990cf961997</sys_ui_form>
+            <sys_ui_section caption="Course 2" display_value="Course 2" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">e7769fafdb2e1300d43d5990cf9619c9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 17:37:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 17:37:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a376dfafdb2e1300d43d5990cf96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229771_reimburse_training_reimbursement_section_1" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">058bba63db2e1300d43d5990cf961997</sys_ui_form>
+            <sys_ui_section caption="Course 3" display_value="Course 3" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">ef769fafdb2e1300d43d5990cf9619c9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 17:37:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 17:37:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6376dfafdb2e1300d43d5990cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229771_reimburse_training_reimbursement_section_1" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">058bba63db2e1300d43d5990cf961997</sys_ui_form>
+            <sys_ui_section caption="Course 4" display_value="Course 4" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">e7769fafdb2e1300d43d5990cf9619ca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 17:37:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 17:37:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a776dfafdb2e1300d43d5990cf961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229771_reimburse_training_reimbursement_section_1" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">058bba63db2e1300d43d5990cf961997</sys_ui_form>
+            <sys_ui_section caption="Course 5" display_value="Course 5" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">ef769fafdb2e1300d43d5990cf9619ca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 17:37:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 17:37:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6376dfafdb2e1300d43d5990cf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229771_reimburse_training_reimbursement_section_1" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">058bba63db2e1300d43d5990cf961997</sys_ui_form>
+            <sys_ui_section caption="Employee Signature" display_value="Employee Signature" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">e7769fafdb2e1300d43d5990cf9619cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 17:37:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 17:41:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77571befdb2e1300d43d5990cf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229771_reimburse_training_reimbursement_section_1" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">058bba63db2e1300d43d5990cf961997</sys_ui_form>
+            <sys_ui_section caption="HR Approval Section" display_value="HR Approval Section" name="x_229771_reimburse_training_reimbursement_section_1" sys_domain="global" view="Default view">b3571befdb2e1300d43d5990cf9619ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 17:41:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_229771_reimburse_training_reimbursement_section_1</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 15:39:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>058bba63db2e1300d43d5990cf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_229771_reimburse_training_reimbursement_section_1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Reimbursement for Training" source="x_229771_reimburse">d8fcaea7dbea1300d43d5990cf961990</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reimbursement for Training">d8fcaea7dbea1300d43d5990cf961990</sys_scope>
+            <sys_update_name>sys_ui_form_sections_058bba63db2e1300d43d5990cf961997</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 15:39:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

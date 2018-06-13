@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_glide_time_18" label="Hours of Training/Exam" language="en" table="x_229771_reimburse_training_reimbursement_section_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_time_18</element>
+            <help/>
+            <hint/>
+            <label>Hours of Training/Exam</label>
+            <language>en</language>
+            <name>x_229771_reimburse_training_reimbursement_section_1</name>
+            <plural>Hours of Training/Exams</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 17:37:50</sys_created_on>
+            <sys_id>bb76dfafdb2e1300d43d5990cf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Hours of Training/Exam</sys_name>
+            <sys_package display_value="Reimbursement for Training" source="x_229771_reimburse">d8fcaea7dbea1300d43d5990cf961990</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reimbursement for Training">d8fcaea7dbea1300d43d5990cf961990</sys_scope>
+            <sys_update_name>sys_documentation_x_229771_reimburse_training_reimbursement_section_1_u_glide_time_18_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 17:37:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
